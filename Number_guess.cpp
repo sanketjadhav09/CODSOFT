@@ -23,7 +23,7 @@ int main()
 		else if(guess<num && guess>=1)
 			cout<<"Too low!\n\n";
 		else
-			cout<<"Invalid Number\n\n";
+			cout<<"Invalid Number!\n\n";
 			
 	} while(guess!=num);
 
